@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2578
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40857#From-Gretna-Green-to-Land-s-EndA-Literary-Journey-in-England.
 gutenberg_issued: '2012-09-25'
 gutenberg_type: Text
 identifiers:
