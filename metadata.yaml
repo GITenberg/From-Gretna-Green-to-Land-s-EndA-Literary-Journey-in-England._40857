@@ -1,0 +1,32 @@
+_repo: From-Gretna-Green-to-Land-s-EndA-Literary-Journey-in-England._40857
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40857-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Bates, Katharine Lee
+    alias: Bates, Katherine Lee
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '2578'
+    url: http://www.gutenberg.org/2009/agents/2578
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+description: ''
+gutenberg_issued: '2012-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40857'
+  lccn: 07032870
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+tableOfContents: 'The Border -- The Lake Country -- Three rush-bearings -- A group
+  of industrial counties -- The heart of England: Warwickshire -- The Cotswolds --
+  Oxford -- Counties of the Severn valley -- Somerset and Devonshire -- Cornwall.'
+title: 'From Gretna Green to Land''s End: A Literary Journey in England.'
+url: http://www.gutenberg.org/ebooks/40857
